@@ -2,7 +2,7 @@
 
 ### O objetivo do jogo e descobrir qual é o número secreto entre dois valores indicados. O valor do "chute" do usuário é capturado por reconhecimento de voz.
 
-## <a href="numero-secreto-kauang13.vercel.app">Jogue agora 🎮</a>
+## <a href="https://numero-secreto-kauang13.vercel.app/">Jogue agora 🎮</a>
 
 <hr>
 <div align="center">
